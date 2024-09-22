@@ -6,7 +6,7 @@
     "start": "node server.js"
   },
   "devDependencies": {
-    "json-server": "^1.0.0-beta.2"
+    "json-server": "^0.17.4"
   },
   "keywords": [],
   "author": "",
